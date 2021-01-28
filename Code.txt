@@ -4,5 +4,12 @@ some additional code
 2nd dev my best ever algo
 another change
 
+test
+bla bla
+<<<<<<< .mine
 bla bla
 
+=======
+test
+
+>>>>>>> .theirs
